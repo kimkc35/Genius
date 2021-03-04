@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 python-3.8.8
-=======
-python-3.9.2
->>>>>>> eb6e06dbf0c3405fde3e01c2cf31b69a0fe458c2
